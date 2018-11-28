@@ -1,24 +1,25 @@
-h1 {font-family: Helvetica;
+h1 {font-family: 'Cormorant Upright', serif;
+  font-style: italic;
     }
 
 
 
     ul li {color: purple;
-      font-family: Helvetica;
+      font-family: 'Crimson Text', serif;
       font-size: 14px;}
 
         h2
-        {color: purple;
+        {font-family: 'Pacifico', cursive;
         }
         p {color: purple;
-          font-family: Helvetica;
+          font-family: 'Crimson Text', serif;
           font-size: 16px;
           }
 
 p{margin:20px;}
 
 h3 {
-    font-family:Arial;
+    ffont-family: 'Crimson Text', serif;
     background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
     background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
     color:transparent;
