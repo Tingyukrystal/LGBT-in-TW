@@ -3,13 +3,14 @@ h1 {font-family: Arial;
 
 
 
-    ul li {background-color:yellow;
-          }
+    ul li {color: purple;
+      font-family: Helvetica;
+      font-size: 14px;}
 
         h2
         {color: purple;
         }
-        p {color: green;
+        p {color: purple;
           font-family: Helvetica;
           font-size: 16px;
           }
