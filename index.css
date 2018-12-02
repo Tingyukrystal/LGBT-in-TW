@@ -1,5 +1,13 @@
-h1 {font-family: Arial;
+header {text-align: center;}
+
+
+
+h1 {font-family: 'Amatic SC', cursive;
     }
+
+    .navLink {font-family: 'Amatic SC', cursive;
+    text-align: center;
+        }
 
 
 
@@ -15,10 +23,15 @@ h1 {font-family: Arial;
           font-size: 16px;
           }
 
-p{margin:20px;}
+p {margin:20px;
+  font-style: italic;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  }
 
 h3 {
     font-family:Arial;
+    text-align: center;
     background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
     background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
     color:transparent;
@@ -28,4 +41,4 @@ h3 {
 
   # Rainbow Flag meaning {border: 3px solid #000;
         }
-  ＃Rainbow Flag meanig .important {font-weight:bold; font-size: 16px}
+  ＃Rainbow Flag meaning .important {font-weight:bold; font-size: 16px}
