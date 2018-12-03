@@ -1,9 +1,9 @@
-.navLink {font-family: 'Amatic SC', cursive;
-          font-size: 50px;
-          padding-right: 30px;
-          }
-
             header {text-align: center;}
+
+            .navLink {font-family: 'Amatic SC', cursive;
+                      font-size: 50px;
+                      padding-right: 30px;
+                      }
 
  body {
    font-family:helvetica, sans-serif;
@@ -29,7 +29,7 @@ p {
   bottom: 0;
 }
 
-.firt {
+.first {
   background img
   line-height: normal;
 }
