@@ -1,8 +1,12 @@
+.navLink {font-family: 'Amatic SC', cursive;
+        }
+
+        header {text-align: center;}
+
+
 h1 {font-family: 'Cormorant Upright', serif;
   font-style: italic;
     }
-
-
 
     ul li {color: purple;
       font-family: 'Crimson Text', serif;
