@@ -5,3 +5,8 @@ h1 {font-family: Helvetica;
     h2 {font-family: Helvetica;
         font-size: 16px;
         color: navy;}
+
+        .navLink {font-family: 'Amatic SC', cursive;
+            }
+
+            header {text-align: center;}

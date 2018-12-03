@@ -1,4 +1,7 @@
-<style>
+.navLink {font-family: 'Amatic SC', cursive;
+          text-align: center;
+          }
+
  body{
    font-family:helvetica, sans-serif;
   margin:0 auto;
@@ -27,5 +30,3 @@ p{
   background img
   line-height: normal;
 }
-
-</style>
