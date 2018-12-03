@@ -13,6 +13,7 @@ font-size: 60px;
           font-family: 'Nixie One', cursive;
           font-size: 14px;
           text-align: center;
+
           }
 
         h2
@@ -21,6 +22,9 @@ font-size: 60px;
         p {color: purple;
           font-family: 'Nixie One', cursive;
           font-size: 16px;
+          border-style:dotted;
+          background: #BBDDE6;
+          margin-top:10px
           }
 
 p {margin:20px;
