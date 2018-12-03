@@ -1,36 +1,38 @@
 header {text-align: center;}
 
 
-
 h1 {font-family: 'Amatic SC', cursive;
+font-size: 60px;
     }
 
     .navLink {font-family: 'Amatic SC', cursive;
     text-align: center;
         }
 
-
-
     ul li {color: purple;
-      font-family: Helvetica;
-      font-size: 14px;}
+          font-family: 'Nixie One', cursive;
+          font-size: 14px;
+          text-align: center;
+          }
 
         h2
         {color: purple;
         }
         p {color: purple;
-          font-family: Helvetica;
+          font-family: 'Nixie One', cursive;
           font-size: 16px;
           }
 
 p {margin:20px;
-  font-style: italic;
-  font-family: 'PT Serif', serif;
+  font-style: regular;
+  font-family: 'Nixie One', cursive;
   text-align: center;
+  color: #9B26B6;
   }
 
 h3 {
-    font-family:Arial;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
     text-align: center;
     background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
     background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
@@ -39,6 +41,6 @@ h3 {
     background-clip: text;
   }
 
-  # Rainbow Flag meaning {border: 3px solid #000;
+  #Rainbow Flag meaning {border: 3px solid #000;
         }
-  ＃Rainbow Flag meaning .important {font-weight:bold; font-size: 16px}
+  ＃Rainbow Flag meaning .important {font-weight: bold; font-size: 16px}
