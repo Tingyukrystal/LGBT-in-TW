@@ -1,35 +1,41 @@
-            header {text-align: center;}
+header {font-family: 'Amatic SC', cursive;
+        text-align: center;
+        color: #004EA8;
+        font-size: 100px;
+        }
 
-            .navLink {font-family: 'Amatic SC', cursive;
-                      font-size: 50px;
-                      padding-right: 30px;
-                      }
+div h1 {font-family: 'Amatic SC', cursive;
+        font-size: 60px;
+        color: #3255A4;
+        text-align: center;
+        }
 
- body {
-   font-family:helvetica, sans-serif;
-  margin:0 auto;
-  max-width: 600px;
-  position:absolute;
-  bottom:0
-}
+.navLink {font-family: 'Amatic SC', cursive;
+          font-size: 50px;
+          padding-right: 30px;
+          color: #3255A4;
+          text-align: center;
+          }
 
-div {
-  height: 200px;
-  background-size: cover;
-  position:relative;
-}
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    }
 
-p {
-  background:rgba(0,0,0,1);
-  color:rgba (255,255,255,1);
-  padding: 10px;
-  line-height: 28px;
-  text-align: justify;
-  position:absolute;
-  bottom: 0;
-}
+p {margin:20px;
+  font-style: regular;
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: #9B26B6;
+  }
 
-.first {
-  background img
-  line-height: normal;
-}
+  div h2 {font-family: 'Amatic SC', cursive;
+          font-size: 40px;
+          text-align: center;
+          background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+          background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+          color:transparent;
+          -webkit-background-clip: text;
+          background-clip: text;
+          }

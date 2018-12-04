@@ -1,35 +1,72 @@
+header {font-family: 'Amatic SC', cursive;
+        text-align: center;
+        color: #004EA8;
+        font-size: 100px;
+        }
+
+div h1 {font-family: 'Amatic SC', cursive;
+        font-size: 60px;
+        color: #3255A4;
+        text-align: center;
+        }
+
+        div h2 {font-family: 'Amatic SC', cursive;
+                font-size: 60px;
+                color: #3255A4;
+                text-align: center;}
+
 .navLink {font-family: 'Amatic SC', cursive;
           font-size: 50px;
           padding-right: 30px;
-              }
-
-        header {text-align: center;}
-
-
-h1 {font-family: 'Cormorant Upright', serif;
-  font-style: italic;
-
-    }
-
-    ul li {color: purple;
-      font-family: 'Crimson Text', serif;
-      font-size: 14px;}
-
-        h2
-        {font-family: 'Pacifico', cursive;
-        }
-        p {color: purple;
-          font-family: 'Crimson Text', serif;
-          font-size: 16px;
+          color: #3255A4;
+          text-align: center;
           }
 
-p{margin:20px;}
+    ul li {color: purple;
+          font-family: 'Nixie One', cursive;
+          font-size: 14px;
+          text-align: left;
+          }
 
-h3 {
-    ffont-family: 'Crimson Text', serif;
-    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
-    background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
-    color:transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-  }
+        p {font-family: 'Nixie One', cursive;
+          font-size: 20px;
+          margin:20px;
+          font-style: regular;
+          text-align: left;
+          color: #9B26B6;
+          }
+
+          #explanation {font-family: 'Nixie One', cursive;
+                        border-style: none;
+                        margin-top: 25px;
+                        margin-bottom: 100px;
+                        border: 3px solid #F6DDEA;
+                        font-weight: bold;
+                        font-size: 16px;
+                        }
+
+          #biographies {border-style: dotted;
+                        margin-top: 25px;
+                        margin-bottom: 100px;
+                        border: 3px solid #F6DDEA;
+                        background-color: #F6DDEA;
+                        font-weight: bold;
+                        font-size: 16px;
+                        }
+
+                img {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 40%;
+                    }
+
+                    div h2 {font-family: 'Amatic SC', cursive;
+        font-size: 40px;
+        text-align: center;
+        background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+        background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+        color:transparent;
+        -webkit-background-clip: text;
+        background-clip: text;
+        }
