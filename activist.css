@@ -29,7 +29,7 @@ p {margin: 20px;
   font-style: regular;
   font-family: 'Nixie One', cursive;
   text-align: center;
-  color: #9B26B6;
+  color: #FFB549;
 }
 
 div h2 {font-family: 'Amatic SC', cursive;
@@ -55,6 +55,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.first .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .second {font-family: 'Nixie One', cursive;
@@ -70,6 +83,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.second .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .third {font-family: 'Nixie One', cursive;
@@ -85,6 +111,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.third .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .fourth {font-family: 'Nixie One', cursive;
@@ -100,6 +139,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.fourth .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .fifth {font-family: 'Nixie One', cursive;
@@ -115,6 +167,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.fifth .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .sixth {font-family: 'Nixie One', cursive;
@@ -130,6 +195,19 @@ font-weight: bold;
 font-size: 20px;
 font-style: regular;
 text-align: center;
+position: relative;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.sixth .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 #button {text-align: center;
