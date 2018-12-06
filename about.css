@@ -61,4 +61,17 @@ color:transparent;
 background-clip: text;
 }
 
-#contact {text-align: center;}
+#contact {text-align: center;
+  {font-family: 'Nixie One', cursive;
+  border-style: none;
+  color: #9B26B6;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 25px;
+  margin-bottom: 100px;
+  border: 3px solid #F6DDEA;
+  background-color: #F6DDEA;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+  }
