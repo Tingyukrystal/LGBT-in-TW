@@ -5,7 +5,7 @@ header {font-family: 'Amatic SC', cursive;
         }
 
 div h1 {font-family: 'Amatic SC', cursive;
-        font-size: 60px;
+        font-size: 80px;
         color: #3255A4;
         text-align: center;
         }
@@ -18,22 +18,17 @@ div h1 {font-family: 'Amatic SC', cursive;
           }
 
 img {display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
     }
 
-ul li {margin:20px;
-      font-style: regular;
-      font-family: 'Nixie One', cursive;
-      text-align: center;
-      color: #9B26B6;
-      }
-
 p {margin:20px;
   font-style: regular;
   font-family: 'Nixie One', cursive;
-  text-align: center;
+  text-align: justify;
   color: #9B26B6;
   }
 
@@ -46,3 +41,43 @@ p {margin:20px;
           -webkit-background-clip: text;
           background-clip: text;
           }
+
+          div h3 {font-family: 'Nixie One', cursive;
+                  font-size: 20px;
+                  text-align: center;
+                  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+                  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+                  color:transparent;
+                  -webkit-background-clip: text;
+                  background-clip: text;
+                  }
+
+          .ref {border-style: none;
+                        margin-left: 20px;
+                        margin-right: 20px;
+                        margin-top: 25px;
+                        margin-bottom: 100px;
+                        border: 3px solid #D5EBEE;
+                        font-weight: bold;
+                        font-size: 30px;
+                        }
+
+          .for {border-style: none;
+                        margin-left: 20px;
+                        margin-right: 20px;
+                        margin-top: 25px;
+                        margin-bottom: 100px;
+                        border: 3px solid #D5EBEE;
+                        font-weight: bold;
+                        font-size: 20px;
+                        }
+
+                        .history {border-style: none;
+                                      margin-left: 20px;
+                                      margin-right: 20px;
+                                      margin-top: 25px;
+                                      margin-bottom: 100px;
+                                      border: 3px solid #D5EBEE;
+                                      font-weight: bold;
+                                      font-size: 20px;
+                                      }
