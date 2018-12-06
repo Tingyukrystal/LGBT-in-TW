@@ -5,7 +5,7 @@ header {font-family: 'Amatic SC', cursive;
         }
 
 div h1 {font-family: 'Amatic SC', cursive;
-        font-size: 60px;
+        font-size: 80px;
         color: #3255A4;
         text-align: center;
         }
@@ -38,6 +38,8 @@ p {margin:20px;
   }
 
 #explanation {border-style: none;
+              margin-left: 20px;
+              margin-right: 20px;
               margin-top: 25px;
               margin-bottom: 100px;
               border: 3px solid #D5EBEE;
@@ -46,6 +48,8 @@ p {margin:20px;
               }
 
 #rainbow {border-style: none;
+              margin-left: 20px;
+              margin-right: 20px;
               margin-top: 25px;
               margin-bottom: 100px;
               border: 3px solid #D5EBEE;

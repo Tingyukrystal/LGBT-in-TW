@@ -5,7 +5,7 @@ header {font-family: 'Amatic SC', cursive;
         }
 
 div h1 {font-family: 'Amatic SC', cursive;
-        font-size: 60px;
+        font-size: 80px;
         color: #3255A4;
         text-align: center;
         }
@@ -20,7 +20,7 @@ div h1 {font-family: 'Amatic SC', cursive;
 img {display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 30%;
     }
 
 p {margin:20px;
@@ -39,3 +39,92 @@ p {margin:20px;
           -webkit-background-clip: text;
           background-clip: text;
           }
+.first {font-family: 'Nixie One', cursive;
+        border-style: none;
+        background-color: #FFDFB4;
+        color: #9B26B6;
+              margin-left: 20px;
+              margin-right: 20px;
+              margin-top: 25px;
+              margin-bottom: 100px;
+              border: 3px solid #FFDFB4;
+              font-weight: bold;
+              font-size: 30px;
+              font-style: regular;
+              text-align: center;
+              }
+
+.second {font-family: 'Nixie One', cursive;
+          border-style: none;
+          background-color: #FFDFB4;
+          color: #9B26B6;
+                margin-left: 20px;
+                margin-right: 20px;
+                margin-top: 25px;
+                margin-bottom: 100px;
+                border: 3px solid #FFDFB4;
+                font-weight: bold;
+                font-size: 30px;
+                font-style: regular;
+                text-align: center;
+                }
+
+.third {font-family: 'Nixie One', cursive;
+        border-style: none;
+        background-color: #FFDFB4;
+        color: #9B26B6;
+              margin-left: 20px;
+              margin-right: 20px;
+              margin-top: 25px;
+              margin-bottom: 100px;
+              border: 3px solid #FFDFB4;
+              font-weight: bold;
+              font-size: 30px;
+              font-style: regular;
+              text-align: center;
+              }
+
+.fourth {font-family: 'Nixie One', cursive;
+        border-style: none;
+        background-color: #FFDFB4;
+        color: #9B26B6;
+              margin-left: 20px;
+              margin-right: 20px;
+              margin-top: 25px;
+              margin-bottom: 100px;
+              border: 3px solid #FFDFB4;
+              font-weight: bold;
+              font-size: 30px;
+              font-style: regular;
+              text-align: center;
+              }
+
+.fifth {font-family: 'Nixie One', cursive;
+        border-style: none;
+        background-color: #FFDFB4;
+        color: #9B26B6;
+              margin-left: 20px;
+              margin-right: 20px;
+              margin-top: 25px;
+              margin-bottom: 100px;
+              border: 3px solid #FFDFB4;
+              font-weight: bold;
+              font-size: 30px;
+              font-style: regular;
+              text-align: center;
+              }
+
+.sixth {font-family: 'Nixie One', cursive;
+        border-style: none;
+        background-color: #FFDFB4;
+        color: #9B26B6;
+              margin-left: 20px;
+              margin-right: 20px;
+              margin-top: 25px;
+              margin-bottom: 100px;
+              border: 3px solid #FFDFB4;
+              font-weight: bold;
+              font-size: 30px;
+              font-style: regular;
+              text-align: center;
+              }
